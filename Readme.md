@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Deependrakashya/MY-Docs-Releases/blob/main/assets/promotional_image.png?raw=true" alt="My Docs Logo" width="500" height="500"/>
 
-# <img src="https://github.com/Deependrakashya/MY-Docs-Releases/blob/main/assets/logo.png?raw=true" alt="My Docs Logo" width="40" height="40"/> My Docs
+#  My Docs
 
 ### Your All-in-One Offline Document Viewer & Editor
 
