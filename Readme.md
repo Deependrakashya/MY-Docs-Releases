@@ -2,9 +2,9 @@
 
 <img src="https://github.com/Deependrakashya/MY-Docs-Releases/blob/main/assets/promotional_image.png?raw=true" alt="My Docs Logo" width="500" height="500"/>
 
-#  My Docs
+# My Docs
 
-### Your All-in-One Offline Document Viewer & Editor
+### Your All-in-One Offline Document Manager, PDF Reader & Office Viewer
 
 **View, Edit, Convert, and Manage PDFs, Word, Excel & more — completely offline, on Windows, macOS, Linux, and Android.**
 
@@ -14,6 +14,33 @@
 [![Offline](https://img.shields.io/badge/Works-100%25%20Offline-purple?style=for-the-badge)](#)
 
 </div>
+
+---
+
+## ⚡ Why My Docs?
+
+My Docs is an offline document management application engineered for users who require a fast, private environment to work with sensitive files. Unlike cloud-centric alternatives, **every operation executes locally on your hardware.**
+
+> **Zero Accounts. Zero Subscriptions. Zero Internet Required.**
+
+Whether you are reading PDFs, reviewing Word documents, editing Excel spreadsheets, scanning paper documents with OCR, or managing a high-volume file architecture, My Docs ensures your data remains air-gapped.
+
+### 🔒 Privacy Architecture
+Our privacy guarantee is structurally enforced:
+`Your Document ➔ My Docs App ➔ Local Device Processing ➔ Nothing Uploaded`
+
+---
+
+## ⚖️ My Docs vs Other Software
+
+| Feature | My Docs | Adobe Acrobat | Foxit PDF | Microsoft Office |
+|---|:---:|:---:|:---:|:---:|
+| **100% Offline Processing** | ✅ | ✅ | ✅ | ❌ |
+| **No Account/Login Required** | ✅ | ❌ | ❌ | ❌ |
+| **Native Word Viewer (.docx)** | ✅ | ❌ | ❌ | ✅ |
+| **Native Excel Viewer (.xlsx)**| ✅ | ❌ | ❌ | ✅ |
+| **On-Device OCR Scanner** | ✅ | ❌ | ❌ | ❌ |
+| **Native Linux Support** | ✅ | Limited | Limited | ❌ |
 
 ---
 
@@ -135,9 +162,7 @@ My Docs is a **free, offline document manager** packed with powerful features:
 | Feature | What It Means |
 |---|---|
 | **OCR Scanner** | Scan a document with your camera and pull out editable, searchable text — fully on-device |
-| **Digital Signatures** | Sign PDF documents directly from your phone |
 | **Annotate PDFs** | Highlight text and add notes on the go |
-| **Custom Watermarks** | Stamp documents with your own watermark |
 | **Share Sheet Integration** | Open files shared from other apps, and share your documents right back instantly |
 | **Dark Mode** | Easier reading in low light |
 
