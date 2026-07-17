@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Deependrakashya/All-File-Viewer/main/assets/logo.png" alt="My Docs Logo" width="120" height="120"/>
+<img src="https://github.com/Deependrakashya/MY-Docs-Releases/blob/main/assets/promotional_image.png?raw=true" alt="My Docs Logo" width="120" height="120"/>
 
-# 📄 My Docs
+# <img src="https://github.com/Deependrakashya/MY-Docs-Releases/blob/main/assets/logo.png?raw=true" alt="My Docs Logo" width="40" height="40"/> My Docs
 
 ### Your All-in-One Offline Document Viewer & Editor
 
